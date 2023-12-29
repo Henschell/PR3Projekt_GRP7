@@ -1,0 +1,36 @@
+
+@font-face {
+	src: url("Games-Italic.ttf");
+}
+.root {
+	-fx-font-family: 'Games';
+	-fx-font-size: 30px;
+	-fx-font-weight: bold;
+}
+.label {
+	-fx-text-fill: white;
+	-fx-font-size: 60px;
+}
+
+.button {
+	-fx-text-fill: lime;
+	-fx-border-color: lime;
+	-fx-background-color: black;
+}
+
+.button:hover {
+	-fx-text-fill: black;
+	-fx-background-color: white;
+	-fx-border-color: white;
+}
+
+.check-box {
+	-fx-text-fill: white;
+}
+.check-box .box{
+	-fx-background-color: white;
+
+}
+.check-box:selected .box {
+	-fx-background-color: white;
+}

@@ -1,0 +1,17 @@
+@font-face {
+	src: url("Games-Italic.ttf");
+}
+
+.root {
+
+}
+
+.canvas {
+	-fx-border-color: lime;
+}
+
+.label {
+	-fx-font-family: "Games";
+	-fx-text-fill: lime;
+	-fx-font-size: 15px;
+}

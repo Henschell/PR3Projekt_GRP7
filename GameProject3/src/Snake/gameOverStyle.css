@@ -1,0 +1,24 @@
+@font-face {
+	src: url("Games-Italic.ttf");
+}
+.root {
+	-fx-font-family: 'Games';
+	-fx-font-size: 30px;
+	-fx-font-weight: bold;
+	-fx-background-color: black;
+	
+}
+.label {
+	-fx-text-fill: white;
+	-fx-font-size: 30px;
+}
+.button {
+	-fx-text-fill: black;
+	-fx-font-size: 20px;
+	-fx-background-color: white;
+}
+.button:hover {
+	-fx-text-fill: black;
+	-fx-font-size: 20px;
+	-fx-background-color: lime;
+}

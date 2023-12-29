@@ -1,0 +1,39 @@
+@font-face {
+	src: url("Games-Italic.ttf");
+}
+.root {
+	-fx-background-color: black;
+	-fx-font-family: 'Games';
+	-fx-font-size: 25px;
+	-fx-font-weight: bold;
+	-fx-border-color: black;
+}
+.label {
+	-fx-background-color: black;
+	-fx-text-fill: lime;
+	-fx-border-color: black;
+}
+.scroll-pane {
+	-fx-background-color: black;
+}
+.scroll-bar .increment-arrow,
+.scroll-bar .decrement-arrow {
+	-fx-background-color: magenta;
+	-fx-border-color: magenta;
+}
+.scroll-bar .increment-button,
+.scroll-bar .decrement-button  {
+	-fx-background-color: black;
+	-fx-border-color: black;
+}
+.scroll-bar .thumb {
+	-fx-background-color: magenta;
+}
+.scroll-bar .track {
+	-fx-background-color: black;
+}
+.scroll-pane > .corner {
+	-fx-background-color: black;
+	-fx-border-color: black;
+	-fx-color: black;
+}
