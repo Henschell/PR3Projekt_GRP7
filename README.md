@@ -40,7 +40,19 @@ Kommt noch.
 
 ## Verwendung
 
-Kommt noch.
+DarkIT ist eine Sammlung von sechs einzigartigen Spielen, die speziell entwickelt wurden, um Kinder im Alter von 6 bis 14 Jahren auf unterhaltsame und interaktive Weise über die faszinierende Welt der Spiele und die potenziellen Gefahren des Internets aufzuklären. Jedes Spiel in der Sammlung zielt darauf ab, wichtige Lektionen über Sicherheit im Internet, Datenschutz und digitale Etikette zu vermitteln, während es gleichzeitig die kognitiven und kreativen Fähigkeiten der Kinder fördert.
+
+Bevor Sie mit den Spielen beginnen, empfehlen wir Erwachsenen und Betreuern, sich mit den Kindern zusammenzusetzen und sie durch die folgenden Schritte zu führen:
+
+Einführung in die Spiele: Nehmen Sie sich einen Moment Zeit, um die verschiedenen Spiele in der Sammlung zu erkunden und zu verstehen, wie jedes Spiel dazu beiträgt, wichtige Konzepte über Technologie und Sicherheit zu vermitteln.
+
+Diskussion über das Internet und seine Gefahren: Nutzen Sie die Gelegenheit, mit den Kindern über das Internet zu sprechen. Diskutieren Sie, wie es funktioniert, welche Vorteile es bietet und welche Risiken es birgt. Stellen Sie sicher, dass sie verstehen, wie wichtig es ist, sicher und verantwortungsbewusst online zu agieren.
+
+Spielanleitung: Führen Sie die Kinder durch die Anleitung jedes Spiels. Stellen Sie sicher, dass sie die Regeln verstehen und ermutigen Sie sie, Fragen zu stellen.
+
+Spielen und Lernen: Lassen Sie die Kinder die Spiele spielen und unterstützen Sie sie dabei, die Lektionen, die jedes Spiel zu bieten hat, zu verstehen und zu reflektieren.
+
+Durch die Kombination von Spaß und Bildung bietet DarkIT eine Plattform, auf der Kinder nicht nur lernen, wie Spiele funktionieren, sondern auch, wie sie sich sicher in der digitalen Welt bewegen können. Wir hoffen, dass diese Sammlung dazu beiträgt, das Bewusstsein und das Verständnis der Kinder für die Bedeutung von Cybersicherheit und digitalem Wohlbefinden zu schärfen.
 
 ## Spiele und Use Cases
 
@@ -100,4 +112,42 @@ Die folgenden Bilder wurden mit Bing Image Creater künstlich generiert:
 
 Da es sich um künstlich generierte Bilder handelt, gibt keine spezifische externe Quelle.
 
+### VirusSweeper
 
+**Use Cases:**
+
+ **1. Spiel starten**:
+   - Der Spieler bekommt ein mit schwierigkeitsStufe Anfänger generiertes ein spielfeld 
+
+ **2. Button  Zurücksetzen**:
+   - Das Spielfeld wird für die eingestellte Schwierigkeit Neu-Generiert und die Zeit sowie Markierung-Zähler werden zurückgesetzt.
+
+ **3. Anzeige für Viren: ...**:
+   - Diese zeigt an wie viele Viren noch nicht Markiert sind.
+
+ **4. Zeit-Anzeige**:
+   - Sobald die erste Interaktion mit dem Spielfeld statfindet, wird die Zeit hochgezählt. Die Anzeige zeigt => „Minuten:Sekunden“
+
+ **5. Aufdecken einer Festplatte**:
+   - Eine Festplatte kann ein Virus sein, dann Hat man Verloren. Anderenfalls, wird eine zahl zwischen 0-8 angezeigt. diese zeigt an wie viele Viren im umkreis der Festplatte sind.
+
+ **6. Markieren einer Festplatte**:
+   - Man kann eine Festplatte Markieren wenn man denkt das es Ein Virus ist. Das verhindert das man diese dann aufdecken kann.
+
+
+ **7. Schwierigkeit Button**:
+   - Der Button Schwierigkeit erzeugt drei Felder, mit einer Auswahl von drei Schwierigkeitsstufen. Anfänger mit 10 Viren auf einem 9*9 Feld, Fortgeschritten mit 40 Viren auf einem 16*16 Feld und Experte mit 70Viren auf einem 18*20Feld. 
+
+
+ **8. Spiel Gewonnen**:
+   - Wenn man erfolgreich alle Festplatten ohne Viren aufgedeckt hat, wird der Gewonnen-Bildschrim angezeigt. Dort wird die Zeit angezeigt und die auswahl zwischen es nochmal Versuchen, zur SpieleSammlung zurückzukehren und es Komplett zu beenden.
+
+
+ **9. Spiel Verloren**:
+   - Wenn man eine Festplatte mit einem  Virurs aufgedeckt, wird der Verloren-Bildschrim angezeigt. Dort htat man die auswahl zwischen es nochmal Versuchen, zur SpieleSammlung zurückzukehren und es Komplett zu beenden.
+
+## Quellen-Memory
+
+Die Bilder und Audiodateien in diesem Projekt stammen von folgenden Quellen:
+
+- alle Audio- und Bild-Datein wurden durch eigenen Künstlerischen Talente erstellt.
