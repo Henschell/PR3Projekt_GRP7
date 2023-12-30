@@ -146,7 +146,7 @@ Da es sich um künstlich generierte Bilder handelt, gibt keine spezifische exter
  **9. Spiel Verloren**:
    - Wenn man eine Festplatte mit einem  Virurs aufgedeckt, wird der Verloren-Bildschrim angezeigt. Dort htat man die auswahl zwischen es nochmal Versuchen, zur SpieleSammlung zurückzukehren und es Komplett zu beenden.
 
-## Quellen-Memory
+## Quellen-VirusSweeper
 
 Die Bilder und Audiodateien in diesem Projekt stammen von folgenden Quellen:
 
