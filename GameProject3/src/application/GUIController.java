@@ -636,6 +636,7 @@ public class GUIController extends Application {
         jp.start(primaryStage);
     }
     public void startLabyrinth() {
+        AudioManager.stopBackGroundAudio();
         Labyrinth.setLabyrinth(difficulty, diff, musicstat, media, mediaPlayer, buttonTextColor, buttonFont, backgroundImage, background);
         Labyrinth.start(primaryStage);
     }
