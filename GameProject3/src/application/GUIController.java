@@ -602,15 +602,14 @@ public class GUIController extends Application {
         Stage beschreibungStage = new Stage();
         beschreibungStage.setTitle("VirusSweeper-Spiel-Beschreibung");
         String beschreibung = "Ziel: \n" + "Alle Festplatten aufdecken, die keinen Virus haben.\n" + "\n"
-                + "Rechtsklick auf nicht aufgedekte Festplatte: \n"
-                + "Markieren und das Markierung aufheben einer Festplatte.\n" + "\n"
-                + "Linksklick auf noch nicht aufgedeckten Festplatte:\n"
-                + "Dann wird eine Zahl angezeigt. Diese Zahl gibt Information darüber, \n"
-                + "wie viele Viren im Umkreis von der Festplatte sind.\n" + "\n"
-                + "Linksklick auf auf Festplatte mit Zahl:\n"
-                + "Wenn Angezeigte Zahl gleich die Anzahl der Markierten Felder ist,\n"
-                + "werden alle Felder in dem Umkreis aufgedeckt.\n" + "\n" + "Linksklick auf Festplatte mit Virus:\n"
-                + "Spiel verloren\n";
+                + "Rechtsklick auf nicht aufgedeckte Festplatte: \n"
+                + "Markieren und die Markierung einer Festplatte aufheben.\n" + "\n"
+                + "Linksklick auf noch nicht aufgedeckte Festplatte:\n"
+                + "Dann wird eine Zahl angezeigt. Diese Zahl gibt Informationen darüber,  \n"
+                + "wie viele Viren im Umkreis der Festplatte sind.\n" + "\n" + "Linksklick auf Festplatte mit Zahl:\n"
+                + "Wenn die angezeigte Zahl gleich der Anzahl der markierten Felder ist,\n"
+                + "werden alle Felder im Umkreis aufgedeckt.\n" + "\n" + "Linksklick auf Festplatte mit Virus:\n"
+                + "Spiel verloren.\n";
         VBox vbox = new VBox();
         Label beschreibungText = new Label(beschreibung);
         beschreibungText.setFont(new Font(15));
