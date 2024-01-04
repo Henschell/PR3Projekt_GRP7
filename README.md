@@ -90,13 +90,7 @@ Die Bilder und Audiodateien in diesem Projekt stammen von folgenden Quellen:
 
 ## Bilder-Memory
 
-Die folgenden Bilder wurden mit Bing Image Creater künstlich generiert:
-
-- `Memory2.jpg`
-- `Preview.jpg`
-- `Cardback.jpg`
-- `Hacker.jpg`
-- `Virus.jpg`
+Die Bilder von /images wurden mit Bing Image Creater künstlich generiert:
 
 Da es sich um künstlich generierte Bilder handelt, gibt keine spezifische externe Quelle.
 
