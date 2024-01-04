@@ -40,19 +40,7 @@ Kommt noch.
 
 ## Verwendung
 
-DarkIT ist eine Sammlung von sechs einzigartigen Spielen, die speziell entwickelt wurden, um Kinder im Alter von 6 bis 14 Jahren auf unterhaltsame und interaktive Weise über die faszinierende Welt der Spiele und die potenziellen Gefahren des Internets aufzuklären. Jedes Spiel in der Sammlung zielt darauf ab, wichtige Lektionen über Sicherheit im Internet, Datenschutz und digitale Etikette zu vermitteln, während es gleichzeitig die kognitiven und kreativen Fähigkeiten der Kinder fördert.
-
-Bevor Sie mit den Spielen beginnen, empfehlen wir Erwachsenen und Betreuern, sich mit den Kindern zusammenzusetzen und sie durch die folgenden Schritte zu führen:
-
-Einführung in die Spiele: Nehmen Sie sich einen Moment Zeit, um die verschiedenen Spiele in der Sammlung zu erkunden und zu verstehen, wie jedes Spiel dazu beiträgt, wichtige Konzepte über Technologie und Sicherheit zu vermitteln.
-
-Diskussion über das Internet und seine Gefahren: Nutzen Sie die Gelegenheit, mit den Kindern über das Internet zu sprechen. Diskutieren Sie, wie es funktioniert, welche Vorteile es bietet und welche Risiken es birgt. Stellen Sie sicher, dass sie verstehen, wie wichtig es ist, sicher und verantwortungsbewusst online zu agieren.
-
-Spielanleitung: Führen Sie die Kinder durch die Anleitung jedes Spiels. Stellen Sie sicher, dass sie die Regeln verstehen und ermutigen Sie sie, Fragen zu stellen.
-
-Spielen und Lernen: Lassen Sie die Kinder die Spiele spielen und unterstützen Sie sie dabei, die Lektionen, die jedes Spiel zu bieten hat, zu verstehen und zu reflektieren.
-
-Durch die Kombination von Spaß und Bildung bietet DarkIT eine Plattform, auf der Kinder nicht nur lernen, wie Spiele funktionieren, sondern auch, wie sie sich sicher in der digitalen Welt bewegen können. Wir hoffen, dass diese Sammlung dazu beiträgt, das Bewusstsein und das Verständnis der Kinder für die Bedeutung von Cybersicherheit und digitalem Wohlbefinden zu schärfen.
+Kommt noch.
 
 ## Spiele und Use Cases
 
@@ -146,8 +134,52 @@ Da es sich um künstlich generierte Bilder handelt, gibt keine spezifische exter
  **9. Spiel Verloren**:
    - Wenn man eine Festplatte mit einem  Virurs aufgedeckt, wird der Verloren-Bildschrim angezeigt. Dort htat man die auswahl zwischen es nochmal Versuchen, zur SpieleSammlung zurückzukehren und es Komplett zu beenden.
 
-## Quellen-VirusSweeper
+## Quellen-Memory
 
 Die Bilder und Audiodateien in diesem Projekt stammen von folgenden Quellen:
 
 - alle Audio- und Bild-Datein wurden durch eigenen Künstlerischen Talente erstellt.
+
+### CyberSnake
+
+**Use Cases:**
+ **1. Anleitung öffnen**:
+ - Klickt man auf den Manulal-Button, öffnet sich eine neue Stage und eine kurze Spielanleitung wird geöffnet
+
+ **2. Spiel starten**:
+ - Klickt man auf den Play-Button, öffnet sich eine neue Szene und das Spiel beginnt sofort
+
+ **3. Die Schlange bewegen**:
+ - Mit den Pfeiltasten oder den Tasten a w s d lässt sich die Schlange in die gewünschte Richtung bewegen. Sie darf nicht gegen sich
+ selbst, gegen den rand des Spielfelds oder gegen die Hindernisse fahren, sonst hat man verloren.
+
+ **4. Einen Email-Virus fressen**:
+ - Bewegt sich die Schlange über das gleiche Feld wie ein Email-Virus, wird dieser gefressen. Der Score wird einen Punkt nach oben gezählt, die Schlange verlängert sich um ein Kästchen und ein neuer Email-Virus an einer anderen Stelle taucht auf und ein neues Hindernis erscheinzt, sofern man Hindernisse eingestellt hat
+
+ **5. Einen bösen Virus fressen**:
+ - Bewegt sich die Schlange vor ein Feld mit einem bösen Virus, kann dieser nicht gefressen werden. Die Schlnage dreht sich um, d.h. der Kopf taucht da auf, wo vorher das Schlangenende war
+
+ **6. Hindernisse**:
+ - Ist eingestellt, dass man mit Hindernissen spielt, taucht nach jedem gefressenen Virus ein neues Hindernis auf. Da nur 10 Hindernisse gleichzeitig auf dem Spielfeld sein sollen, verschwinden die Hindernisse nach 10 gefressenen Viren wieder
+
+ **7. Game Over**:
+ - Bewegt sich die Schlange gegen ein Hindernis, sich selbst, oder gegen den Spielfeldrand, hat man verloren. Eine neue Stage erscheint, auf der ein play-again-Button und ein zurück-Button ersceinen. Der erspielte Score wird auch angezeigt
+
+ **8. Während des Spiels zurück**
+ - Möchte man während des Spiels urück zum Menü, kann entweder die escape-tase oder die Backspace-Taste gedrückt werden. Das Spiel bricht ohne etwas zu Speichern ab und man kommt zurück Snake-Menü
+
+ **9. Einstelungen**:
+ - Auf dem Snake-Menü kann eingestellt werden, ob die bösen Viren sichtbar sein sollen und ob man mit Hindernissen spielen möchte. Es gibt auch eine Checkbox, die die Einstellungen zufällig auswählt
+
+ ## Quellen-Snake
+
+ - `virus.png` [Quellen]: (https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/36229/computer-virus-email-clipart-xl.png)
+ - `stein.png` [Quellen]: (https://kurz-natursteine.de/wp-content/uploads/334780-225x300.png)
+ - `glowGreen.png` [Quellen]: (https://www.computerworld.ch/img/1/5/8/1/0/4/5/hacker-cybercrime_geralt-pixabay_w960_h640.jpg)
+ - `background.mp3` [Quellen] (https://pixabay.com/music)
+ - `happs.wav` [Quellen] (https://freesound.com)
+
+ Folgende Bilder wurden künstlich kreiert:
+ - `snakeHead.png`
+ - `snakeBody.png` 
+
