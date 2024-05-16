@@ -177,3 +177,46 @@ Die Bilder und Audiodateien in diesem Projekt stammen von folgenden Quellen:
  - `snakeHead.png`
  - `snakeBody.png` 
 
+## CrypticMaze
+**Use Cases:**
+
+**1. Spiel starten:**
+
+-Der Spieler startet das Spiel. Das Labyrinth wird zufällig generiert.
+
+**2. Roboter bewegen:**
+
+-Mit den Pfeiltasten kann man den Roboter in alle vier Richtungen bewegen.
+
+**3. Ziel erreichen:**
+
+-Der Roboter muss zum Tor gehen. Man drückt die Leertaste, um durch das Tor zu gehen.
+
+**4. Zeit ist Geld:**
+
+-Es gibt einen Timer, deshalb muss man schnell und schlau sein.
+
+**5. Viren sind überall:**
+
+-Die Viren werden ebenfalls zufällig generiert. Es gibt einige Viren, die man nicht vermeiden kann. Wenn der Roboter ein Virus berührt, verliert er Zeit.
+
+**6. Einstellungen:**
+
+-Man kann den Schwierigkeitsgrad wählen. Dies ändert die Größe des Labyrinths.
+-Musik kann an- und ausgeschaltet werden.
+
+**7. Überraschung:**
+
+-Kannst du das Spiel auf "Hard" schaffen? Es wartet mehr auf dich dort.
+
+##Quellen CrypticMaze:
+
+-door.gif: https://deutschtec.de/wp-content/uploads/2018/06/Primedrive-TBS-close.gif
+-keycard.png: https://cdn-icons-png.flaticon.com/512/663/663294.png
+-robot.gif: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/bdeb6916-ce62-4d75-abae-220bc9f666d2/d15ljb8-49022d5c-9486-4fb7-a21a-3313f26abd4f.gif
+-virus.png: https://banner2.cleanpng.com/20180430/yxq/kisspng-malware-analysis-computer-virus-computer-icons-com-5ae78bf6482a86.9817066915251240862956.jpg
+-youwin.mp3: you win YuGiOh Forbidden Memories OST
+-background-music.mp3: The Front Hall Resident Evil 2 OST
+-You Lose.gif: künstlich hergestellt
+-You Win.gif: künstlich hergestellt
+-BGImage3.gif: künstlich hergestell
