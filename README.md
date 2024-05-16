@@ -179,6 +179,7 @@ Die Bilder und Audiodateien in diesem Projekt stammen von folgenden Quellen:
 
 ## CrypticMaze
 **Dieser Spiel wurde von Mohammad Freej erstellt**
+
 **Use Cases:**
 
 **1. Spiel starten:**
