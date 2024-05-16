@@ -211,12 +211,12 @@ Die Bilder und Audiodateien in diesem Projekt stammen von folgenden Quellen:
 
 ##Quellen CrypticMaze:
 
--door.gif: https://deutschtec.de/wp-content/uploads/2018/06/Primedrive-TBS-close.gif
--keycard.png: https://cdn-icons-png.flaticon.com/512/663/663294.png
--robot.gif: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/bdeb6916-ce62-4d75-abae-220bc9f666d2/d15ljb8-49022d5c-9486-4fb7-a21a-3313f26abd4f.gif
--virus.png: https://banner2.cleanpng.com/20180430/yxq/kisspng-malware-analysis-computer-virus-computer-icons-com-5ae78bf6482a86.9817066915251240862956.jpg
--youwin.mp3: you win YuGiOh Forbidden Memories OST
--background-music.mp3: The Front Hall Resident Evil 2 OST
--You Lose.gif: künstlich hergestellt
--You Win.gif: künstlich hergestellt
--BGImage3.gif: künstlich hergestell
+-`door.gif`: https://deutschtec.de/wp-content/uploads/2018/06/Primedrive-TBS-close.gif
+-`keycard.png`: https://cdn-icons-png.flaticon.com/512/663/663294.png
+-`robot.gif`: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/bdeb6916-ce62-4d75-abae-220bc9f666d2/d15ljb8-49022d5c-9486-4fb7-a21a-3313f26abd4f.gif
+-`virus.png`: https://banner2.cleanpng.com/20180430/yxq/kisspng-malware-analysis-computer-virus-computer-icons-com-5ae78bf6482a86.9817066915251240862956.jpg
+-`youwin.mp3`: you win YuGiOh Forbidden Memories OST
+-`background-music.mp3`: The Front Hall Resident Evil 2 OST
+-`You Lose.gif`: künstlich hergestellt
+-`You Win.gif`: künstlich hergestellt
+-`BGImage3.gif`: künstlich hergestell
